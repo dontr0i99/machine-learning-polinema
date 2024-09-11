@@ -1,4 +1,4 @@
-# Identitas Mahasiswa
+# Pembelajaran Mesin JTI Politeknik Negeri Malang
 
 Nama  : M. Tryo Bagus Anugerah Putra
 
